@@ -1,0 +1,23 @@
+.table{width:100%;height:513;background:#000;font-size:14px}
+.top{width:100%;height:22px;line-height:26px;background:url(../images/play_bg.png) 0 -1px;font-weight:700;display:none}
+.top span{float:right;padding-right:5px;color:#999}
+.hd{width:100%;height:26px;line-height:14px;border:1px solid #222;background:#111}
+.list{width:200px;height:478px;overflow-x:hidden;scrollbar-face-color:#333;scrollbar-shadow-color:#000;scrollbar-highlight-color:#202020;scrollbar-3dlight-color:#202020;scrollbar-darkshadow-color:#202020;scrollbar-track-color:#111;scrollbar-arrow-color:#666;margin-top:-1px;border:1px solid #222;background:#111}
+.expand,.expand_on{cursor:pointer;color:#666;height:40px;line-height:38px;overflow:hidden;text-indent:23px;border-bottom:1px solid #202020;background:url(expand.gif) 8px 13px no-repeat #000}
+.expand_on{color:#e12160;font-weight:700;background-position:8px -20px}
+.expand_sub{width:100%;clear:both;overflow:hidden;border-bottom:1px solid #202020;background:#111}
+.list ul{width:100%;clear:both;overflow:hidden;zoom:1}
+.list li{width:49.5%;height:26px;line-height:24px;float:left;text-align:center;margin:-1px;border:1px solid #202020;background:#111}
+.list li a{display:block;width:100%;height:100%;overflow:hidden}
+.list li a:hover{color:#fff;text-decoration:none;background:#000}
+.list li .list_on{text-decoration:none;background:#e12160;color:#fff}
+#tudouswf{margin-left:-200px}
+#playppvod{width:260px;height:26px;line-height:26px;overflow:hidden;margin:0 auto;text-align:center;color:#fff}
+.prev-next{text-align:right}
+.prev-next a{width:80px;display:inline-block;height:26px;line-height:26px;overflow:hidden;margin:0 auto;text-align:center;color:#666;border-left:1px solid #202020}
+.prev-next a:hover{color:#fff;text-decoration:none;background:#000}
+.open-close{width:200px;font-weight:700;text-align:left;text-indent:23px;color:#666;border-right:1px solid #202020}
+.open-close a:hover{color:#fff;text-decoration:none}
+#headbar{display:none;}
+#zanpiancms_player{height:550px;}
+.w100{width: 100%;overflow: hidden;margin-top: 0;margin-right: auto;margin-bottom: 0;margin-left: auto;float: left;}

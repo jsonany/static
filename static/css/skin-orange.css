@@ -1,0 +1,57 @@
+#juqing .ui-title strong,#like-focus .ui-title strong,#movie-tips a,#page-error-img p a,#personal-box h2,#play-help .play-help-item li a,#serial-box .txt-list li a.red,#tbmov-lasted .ui-title h2,#tbmov-tv .sort-type a,.assist-tab-nav li.current,.channel-silder-title,.comment-assist a:hover,.comment-cnt a,.comment-do .date-time a,.comment-name,.comment-name a,.comment-review .comment-name a:hover,.comment-text .user,.comment-text a,.comment-text span,.detail-info .info dd a:hover,.detail-info .info dd span.color,.detail-info .info dl #link-cmt strong,.detail-related h5 strong,.fall-comment li p a,.fall-comment li p span,.filter-focus .ui-title h3,.filter-list a.current,.filter-list a.current:hover,.filter-list a:hover,.focus-list li p.nums,.forecast-tab-nav li.current,.letter li a:hover,.letter ul li a,.letter-focus-item dt a,.letter-focus-item dt a:hover,.looked-list .his-todo a,.mtit,.part_name,.personal-info li a,.personal-intro h5 .promsg-btn:hover,.personal-visitors h5 a,.ranking-list span.score,.rating-kong-item,.rating-kong-item .nopingfen,.show-list p.state a,.sign-app-block strong,.sign-focus .ui-title h2,.sign-focus a,.sitemap-list dt,.special-list .go-topic:hover,.tbmov-bar .ui-title .view-all,.tbmov-notice a:hover,.top-item-box .ui-title h3,.top-item-box .ui-title h3 a,.top-list .stress,.top-list li .score,.top-list li a:hover .tit,.top-list-detail .score,.top-list-detail .stress,.ui-pages a:hover,.ui-top-tab a:hover,.ui-top-tab li.current a,.ui-top-tab li.current a:hover,.user-comment .cmt-txt .cmt-user,.wxts .snvd,.wxts a.playdown_btn,a.color,a:hover{color:#f60}
+.mtit{border-bottom:solid 1px #f80}
+#liststory{border-top:1px solid #fff}
+.tab_margin ul li,.tab_margin ul li a{color:#f80}
+.tab_margin ul li.sel,.tab_margin ul li:hover{background-color:#f80}
+.actorjz h2,.down-title h2{background-color:#f80}
+.sb{border-bottom:1px solid #f80}
+#list-focus,#list-news{border-top:1px solid #f80}
+.aimenu dd.laname a,.aimenu dd.lrname a,.bycss,.fjinfo b,.fjinfo p a,.jq_player a,.pwk2 a,.recentlylist li span a,.rolename a,.sb a:hover,.sylist .syinfo span a,.sylist .yypic a{color:#f60}
+#xdwss{position:absolute;top:139px;z-index:9999;width:466px;padding:0;margin:1px 0 0 0;border:2px solid #f60;background-color:#fff;overflow:hidden;display:none}
+.globalRightMenu{width:64px;position:fixed;right:50%;margin-right:-575px}
+.globalRightMenu a.aFeedback,.globalRightMenu a.aGoBackTop,.globalRightMenu a.aUserGuide{width:60px;background:url(../images/rightMenuMapBg_orange.png) 0 0 no-repeat;display:block;margin:0 auto}
+.globalRightMenu a.aUserGuide{background-position:0 -514px;height:38px}
+.globalRightMenu a:hover.aUserGuide{background-position:0 -553px}
+.globalRightMenu a.aFeedback{height:42px}
+.globalRightMenu a:hover.aFeedback{background-position:0 -43px}
+.globalRightMenu a.aGoBackTop{height:50px;background-position:-2px -491px}
+.globalRightMenu a:hover.aGoBackTop{background-position:-2px -542px}
+.globalRightMenu a.m8{margin-top:8px}
+.globalRightMenu .pAnchor{background:url(../images/rightMenuMapBg_orange.png) 0 0 no-repeat;height:237px;margin-top:8px;width:64px;padding-top:1px}
+.globalRightMenu .pAnchor strong{font-weight:400;cursor:pointer;height:40px;display:block;line-height:40px;overflow:hidden;margin-top:-1px;text-align:center;width:64px;float:left;color:#333;font-size:14px}
+.globalRightMenu .pAnchor strong.AnchorBegin{margin-top:0}
+.globalRightMenu .pAnchor strong.AnchorEnd{height:42px}
+.globalRightMenu .pAnchor strong:hover{background:url(../images/rightMenuMapBg_orange.png) 0 -242px no-repeat;text-decoration:none}
+.globalRightMenu .pAnchor strong:hover{color:#f30}
+.globalRightMenu .pAnchor strong:hover.AnchorBegin{background-position:0 -242px}
+.globalRightMenu .pAnchor strong:hover.AnchorEnd{background-position:0 -433px}
+.acResults ul li strong,.ranking-list em.stress{color:#f30}
+.ui-icon{background-image:url(../images/ui-icon-orange.gif)}
+#navbar,#tbmov-plus li a:hover{background-image:url(../images/navbar-bg-orange.gif);background-color:#f80}
+#serial-box #serial-box-wj,#tbmov-plus li a:hover,.channel-item .ui-title h2,.channel-silder-nav li.on,.play-list a:hover,.ui-link:hover{border-color:#f80}
+#back-to-top a:hover,.play-list a.current,.activation .btn a:hover,.filter-focus .ui-title span a:hover,.letter ul li a:hover,.play-list a:hover,.specail-mask,.top-catalog .current a,.ui-button,.ui-catalog li a:hover,.view-mode li a.current,.view-modev li a.current,.vodplaybox a.cur,.vodplaybox a.cur:hover{background-color:#f80;border-color: #f80;}
+.letter ul li a,.player_list a:hover,.vodplaybox a.cur,.vodplaybox a.cur:hover{border:1px solid #f80}
+.ui-pages span.current{background-color:#0d999e}
+.ui-nav .current .nav-link,.ui-nav .drop-title-hover,.ui-nav .nav-link:hover{background-color:#2d2d2d}
+.drop-box{border:1px solid #2d2d2d}
+.acResults,.play-img:hover,.ui-search{border-color:#f80}
+.play-img .score{display:block;width:30px;height:18px;line-height:16px;padding-right:5px;text-align:center;overflow:hidden;color:#fff;position:absolute;left:0;top:8px;z-index:3;font-weight:700;-webkit-text-size-adjust:none;background:url(../images/ui-iconq.gif) 0 no-repeat}
+.view-filter a.current{background-color:#259e33}
+.channel-item .ui-title h2,.detail-info .info dl #link-cmt label,.tbmov-notice a{color:#080}
+.ui-input-focus{border-color:#f80}
+.ui-button-hover,.ui-button:hover{background-color:#f30}
+.loveidbox a.sect-btn:hover{background-position:-152px -135px}
+.remind a.rss-btn:hover{background-position:-248px -136px}
+.updownbtnbox a.Up:hover{background-position:0 -135px}
+.updownbtnbox a.Down:hover{background-position:-76px -135px}
+.remind .sect-show{background:url(../images/updownbtn.gif) no-repeat -248px -270px}
+.loveidbox .sect-show{background:url(../images/updownbtn.gif) no-repeat -152px -270px}
+.vodplaybox a span.new{background:url(../images/neww.gif) no-repeat 0 -58px}
+.player_list a:hover{background-color:#f80}
+.p10idt-gold span{color:#f60}
+.pagination>li>a:focus,.pagination>li>a:hover,.pagination>li>span:focus,.pagination>li>span:hover{color:#f60}
+.pagination>li>a:focus,.pagination>li>a:hover,.pagination>li>span:focus,.pagination>li>span:hover{color:#f60}
+.pagination>.active>a,.pagination>.active>a:focus,.pagination>.active>a:hover,.pagination>.active>span,.pagination>.active>span:focus,.pagination>.active>span:hover{background-color:#f60;border-color:#f60}
+.gb-right-type-msg,.gb-show-l{color:#f60;border:1px solid #f60}
+.gb-right .ui-code,.gb-right .ui-input,.gb-title h3 a{color:#f60}
+#gb_types li.selected,.gb-right .ui-button{background:#f60}

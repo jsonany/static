@@ -1,0 +1,29 @@
+.gb-left{overflow:hidden;font-size: 14px;}
+.gb-show-list{overflow:hidden;padding:10px 0 0 0}
+.gb-number{display:block;margin-top:10px;font-weight:700;font-family:Comic Sans MS}
+.gb-show-r{z-index:1;position:relative}
+.gb-cont{overflow:hidden;margin-left:-1px;border:1px solid #e3e3e3;background:#f9f9f9;border-radius:4px;min-height:70px}
+.gb-admin-tab{overflow:hidden;border:1px solid #e3e3e3;background:#fff;border-radius:2px;margin-top:-1px}
+.gb-admin{position:relative;min-height:70px;width:95%;margin:20px auto}
+.gb-admin-title,.gb-title{height:35px;line-height:35px;padding:0 10px;border-bottom:1px dotted #e3e3e3}
+.gb-admin-title h3{float:left;color:#829225}
+.gb-title h3{float:left;color: #000;font-weight: bold;}
+.gb-title h3 a{color:#1f87cb}
+.gb-admin-title span,.gb-title span{float:right}
+.gb-txt{padding:5px 10px;line-height:35px;font-size:14px}
+.gb-right{overflow:hidden;padding:0 0 10px 0;background:#f5f5f5;border:1px solid #fff;margin-top:10px;border-radius:3px;box-shadow:0 0 0 5px rgba(255,255,255,.2)}
+.gb-right-title{font-size:26px;font-weight:700;height:30px;padding-top:10px;padding-right:15px;padding-bottom:10px;padding-left:15px}
+.gb-right-item{width:auto;padding:14px 14px 5px 14px;overflow:hidden;}
+.gb-right-item ul{clear:both}
+.gb-right .ui-label{display:block;line-height:30px;font-size:16px}
+.gb-right .ui-input{width: 95%;float:left;clear:both;padding:5px 8px;height:22px;overflow:hidden;color:#1f87cb;border:1px solid #e3e3e3;border-radius:1px;background-color:#fff;}
+.gb-right .vcodde{line-height:28px;float: right;}
+.gb-right .vcode{float:left}
+.gb-right .ui-code{float:left;width:30%;float:left;padding:2px 8px;height:34px;overflow:hidden;color:#1f87cb;border:1px solid #e3e3e3;border-radius:1px;background-color:#fff}
+#gb_types li{width:75px;height:30px;line-height:28px;overflow:hidden;float:left;text-align:center;cursor:pointer;margin:0 3px 0 0;border: 1px solid #ddd;border-radius:3px;background-color: #f5f5f5;color: #333;text-shadow:none;font-size:14px;}
+#gb_types li.active{color:#fff;border:1px solid #fff;background:#1f87cb}
+.gb-right-type-msg{color:#1f87cb;width:208px;padding:5px 10px;margin:0 14px;border-radius:5px;border:1px solid #1f87cb;background:#ffc;display:none}
+.gb_content{border:1px solid #e3e3e3;background-color:#fff;padding:5px 10px;width: 95%;font-size:14px;line-height:24px;color:#9c9c9c;height:150px;overflow:hidden;}
+.gb-right .ui-button{padding:0 10px;height:34px;line-height:32px;overflow:hidden;text-align:center;cursor:pointer;float:right;font-weight:700;color:#fff;border:1px solid #fff;background:#1f87cb;border-radius:1px;font-size:14px;border-radius:3px}
+.validate-img{float:left!important}
+.kong{text-align:center;padding-top: 1rem;}
