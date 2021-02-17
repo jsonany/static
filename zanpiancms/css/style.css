@@ -59,6 +59,7 @@ body.modal-open{ padding:0px;}
 .user-search .nav-search .btn-search{right:10px;}
 .navbar-toggle.navbar-navmore{padding:8px 5px 0 5px;margin-right:0px;float:right;}
 .navbar-toggle{margin-top:0px; margin-bottom:0px;cursor:pointer;}
+.nav-tabs>li {margin-bottom: -1px;margin: 0 10px 0 0;display: inline-block;float: none;}
 /*播放记录*/
 .navbar-toggle.navbar-playlog,.navbar-toggle.navbar-search{padding:8px 10px 0 10px;margin-right:0px;float:right;cursor:pointer;}
 .user_playlog{padding: 10px 0 0 0;float:right;cursor:pointer; margin-right:15px; position:relative}
@@ -300,7 +301,7 @@ padding: 0 8px;margin: 0 5px 5px 0;}
 .details-tool a#yesremind,.details-tool a#yeslove{ display:none}
 .details-play-title{ margin-top:20px;}
 .play-title-source{ float:left}
-.details-play-title .nav-tabs{ border:none}
+.details-play-title .nav-tabs{border: none;white-space: nowrap;overflow-y: hidden;overflow-x: scroll;}
 .details-play-title .nav-tabs > li.active > a, .details-play-title .nav-tabs > li.active > a:focus, .details-play-title .nav-tabs > li.active > a:hover,.details-play-title .nav-tabs > li >a:hover,.details-play-title .nav-tabs > li.open >a{border:none;}
 .details-play-title .nav-tabs > li.player-more >a{padding-left:15px;}
 .details-play-title .nav-tabs > li.mplayer >a{padding-left:35px;cursor: pointer;}
