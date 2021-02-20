@@ -301,7 +301,7 @@ padding: 0 8px;margin: 0 5px 5px 0;}
 .details-tool a#yesremind,.details-tool a#yeslove{ display:none}
 .details-play-title{ margin-top:20px;}
 .play-title-source{ float:left}
-.details-play-title .nav-tabs{border: none;white-space: nowrap;overflow-y: hidden;overflow-x: scroll;}
+/* .details-play-title .nav-tabs{border: none;white-space: nowrap;overflow-y: hidden;overflow-x: scroll;} */
 .details-play-title .nav-tabs > li.active > a, .details-play-title .nav-tabs > li.active > a:focus, .details-play-title .nav-tabs > li.active > a:hover,.details-play-title .nav-tabs > li >a:hover,.details-play-title .nav-tabs > li.open >a{border:none;}
 .details-play-title .nav-tabs > li.player-more >a{padding-left:15px;}
 .details-play-title .nav-tabs > li.mplayer >a{padding-left:35px;cursor: pointer;}
