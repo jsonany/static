@@ -3,7 +3,7 @@ function resizeImgCommon(){var arg=arguments[0]||"resize_list";var width=$("#"+a
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?773aa60803435e0a44df9b73d3932a8f";
+  hm.src = "https://hm.baidu.com/hm.js?b56ce212c62609bc7e6cd06e300214e5";
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();
