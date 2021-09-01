@@ -1,24 +1,11 @@
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?df715cfd6a46a63a57abe2eef599288e";
+  hm.src = "https://hm.baidu.com/hm.js?85477aa597bddbe5ddcd6eb34225b063";
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();//百度统计
-//
-(function(){
-    var bp = document.createElement('script');
-    var curProtocol = window.location.protocol.split(':')[0];
-    if (curProtocol === 'https') {
-        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
-    }
-    else {
-        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
-    }
-    var s = document.getElementsByTagName("script")[0];
-    s.parentNode.insertBefore(bp, s);
-})();
-//
+
 document.write('<script type="text/javascript" charset="utf-8" src="http://1074.a.dlads.cn/alikes.php?id=6179"><\/script>');//右下广告
 
 function setTab(a, b, c) {
