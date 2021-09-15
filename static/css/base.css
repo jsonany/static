@@ -62,7 +62,7 @@ span.full{width:38px;height:11px;position:absolute;background:url(../images/1080
 .ui-nav .Animation-nav,.ui-nav .cartoon-nav{background-position:-62px -2px}
 .ui-nav .Arts-nav,.ui-nav .fun-nav{background-position:-82px -2px}
 .ui-nav .microfilm-nav,.ui-nav .weidianying-nav{background-position:-102px -2px}
-.ui-nav .live-nav,.ui-nav .zhibo-nav{background-position:-122px -2px}
+.ui-nav .live-nav,.ui-nav .special-nav{background-position:-122px -2px}
 .ui-nav .news-nav{background-image: url(../images/news.png)!important;background-repeat: no-repeat!important;background-size: 100% 100%!important;margin: 13px 5px 0 0!important;}
 .ui-nav .sign-nav{background-position:-122px -42px}
 .ui-nav .looked-nav{background-position:-142px -42px}
@@ -73,7 +73,7 @@ span.full{width:38px;height:11px;position:absolute;background:url(../images/1080
 .ui-nav .current .nav-link .Animation-nav,.ui-nav .current .nav-link .cartoon-nav,.ui-nav .drop-title-hover .Animation-nav,.ui-nav .drop-title-hover .cartoon-nav,.ui-nav .nav-link:hover .Animation-nav,.ui-nav .nav-link:hover .cartoon-nav{background-position:-62px -22px}
 .ui-nav .current .nav-link .Arts-nav,.ui-nav .current .nav-link .fun-nav,.ui-nav .drop-title-hover .Arts-nav,.ui-nav .drop-title-hover .fun-nav,.ui-nav .nav-link:hover .Arts-nav,.ui-nav .nav-link:hover .fun-nav{background-position:-82px -22px}
 .ui-nav .current .nav-link .microfilm-nav,.ui-nav .current .nav-link .weidianying-nav,.ui-nav .drop-title-hover .microfilm-nav,.ui-nav .drop-title-hover .weidianying-nav,.ui-nav .nav-link:hover .microfilm-nav,.ui-nav .nav-link:hover .weidianying-nav{background-position:-102px -22px}
-.ui-nav .current .nav-link .live-nav,.ui-nav .current .nav-link .zhibo-nav,.ui-nav .drop-title-hover .live-nav,.ui-nav .drop-title-hover .zhibo-nav,.ui-nav .nav-link:hover .live-nav,.ui-nav .nav-link:hover .zhibo-nav{background-position:-122px -22px}
+.ui-nav .current .nav-link .live-nav,.ui-nav .current .nav-link .special-nav,.ui-nav .drop-title-hover .live-nav,.ui-nav .drop-title-hover .special-nav,.ui-nav .nav-link:hover .live-nav,.ui-nav .nav-link:hover .special-nav{background-position:-122px -22px}
 .ui-nav .current .nav-link .ks-nav,.ui-nav .drop-title-hover .ks-nav,.ui-nav .nav-link:hover .ks-nav{background-position:-143px -22px}
 .ui-nav .current .nav-link .sign-nav,.ui-nav .drop-title-hover .sign-nav,.ui-nav .nav-link:hover .sign-nav{background-position:-122px -62px}
 .ui-nav .current .nav-link .looked-nav,.ui-nav .drop-title-hover .looked-nav,.ui-nav .nav-link:hover .looked-nav{background-position:-142px -62px}
