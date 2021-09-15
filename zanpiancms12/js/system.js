@@ -4406,7 +4406,7 @@ var zanpian = {
 		},
 		//评论表情
 		'emo': function() {
-			$.get(cms.public + 'tpl/cms/emots.html', function(data) {
+			$.get(cms.public + 'cms/emots.html', function(data) {
 				$("#emots").html(data);
 				$('body').on("click", ".emotion", function() {
 					var left = $(this).offset().left;
